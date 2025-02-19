@@ -1,5 +1,3 @@
 # addr-1
 
-TxHash (ERC): 0x0795abcb17721e762e714a1a7a8ba13fee1074b1579b4c6c67a7b18cc10f6c4c
-
-TG ID: @goolzzi
+TxHash (ERC): 0x628cbe37ea3335f9c29a3633c2a3c0c995ff1a6ea5e58066a3aac48a140c96a6
